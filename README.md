@@ -1,23 +1,40 @@
-Тестовый проект
-Подготовка окружения
+# Тестовый проект
+### Подготовка окружения
 Склонируйте репозиторий:
 
-git clone git@github.com:Magaboss/UpTrader-Test.git
-Перейдите в папку и активируйте виртуальное окружение:
+<kbd>git clone git@github.com:Magaboss/UpTrader-Test.git</kbd>
 
-cd Project_Test/
-python -m pip install --upgrade pip
-python -m venv venv
-venv\Scripts\activate.bat - для Windows;
-source venv/Scripts/activate - для MacOS и Linux
-Установите необходимые зависимости проекта:
+### Перейдите в папку и активируйте виртуальное окружение:
 
-pip install -r requirements.txt
-Выполните миграции:
+ <kbd>cd Project_Test/</kbd>
 
-cd menu
-python manage.py makemigrations
-python manage.py migrate
-Запустите проект:
+ <kbd>python -m pip install --upgrade pip</kbd>
 
-python manage.py runserver
+ <kbd>python -m venv venv</kbd>
+ 
+ <kbd>venv\Scripts\activate.bat - для Windows</kbd>
+ 
+ <kbd>source venv/Scripts/activate - для MacOS и Linux</kbd>
+
+
+### Установите необходимые зависимости проекта:
+
+<kbd>pip install -r requirements.txt</kbd>
+
+### Выполните миграции:
+
+<kbd>cd menu</kbd>
+  
+<kbd>python manage.py makemigrations</kbd>
+  
+<kbd>python manage.py migrate</kbd>
+
+### Запустите проект:
+
+<kbd>python manage.py runserver</kbd>
+
+
+# Готовый суперпользователь 
+Username: prison
+
+Password : 1111111111
