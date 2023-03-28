@@ -3,15 +3,16 @@
 Склонируйте репозиторий:
 ````
 Это блок кода
+```
 git clone https://github.com/Magaboss/UpTrader-Test.git
 
-```
 
 
 
-
-
+````
 ### Перейдите в папку и активируйте виртуальное окружение:
+
+```
 
  cd Project_Test/
 
