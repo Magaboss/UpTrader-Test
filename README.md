@@ -1,20 +1,26 @@
 # Тестовый проект
 ### Подготовка окружения
 Склонируйте репозиторий:
-
-<kbd>git clone https://github.com/Magaboss/UpTrader-Test.git</kbd>
+''''
+git clone https://github.com/Magaboss/UpTrader-Test.git
+'''
 
 ### Перейдите в папку и активируйте виртуальное окружение:
-
- <kbd>cd Project_Test/</kbd>
-
- <kbd>python -m pip install --upgrade pip</kbd>
-
- <kbd>python -m venv venv</kbd>
- 
- <kbd>venv\Scripts\activate.bat - для Windows</kbd>
- 
- <kbd>source venv/Scripts/activate - для MacOS и Linux</kbd>
+''''
+ cd Project_Test/
+'''
+''''
+ python -m pip install --upgrade pip
+'''
+''''
+ python -m venv venv
+ '''
+ ''''
+ venv\Scripts\activate.bat - для Windows
+ '''
+ ''''
+ source venv/Scripts/activate - для MacOS и Linux
+ '''
 
 
 ### Установите необходимые зависимости проекта:
@@ -38,7 +44,3 @@
 Username: prison
 
 Password : 1111111111
-
-````
-Это блок кода
-```
