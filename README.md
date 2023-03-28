@@ -2,7 +2,7 @@
 ### Подготовка окружения
 Склонируйте репозиторий:
 
-<kbd>git clone git@github.com:Magaboss/UpTrader-Test.git</kbd>
+<kbd>git clone https://github.com/Magaboss/UpTrader-Test.git</kbd>
 
 ### Перейдите в папку и активируйте виртуальное окружение:
 
@@ -23,7 +23,7 @@
 
 ### Выполните миграции:
 
-<kbd>cd menu</kbd>
+<kbd>cd src</kbd>
   
 <kbd>python manage.py makemigrations</kbd>
   
