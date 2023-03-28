@@ -3,29 +3,27 @@
 Склонируйте репозиторий:
 ````
 Это блок кода
-```
 git clone https://github.com/Magaboss/UpTrader-Test.git
+
+```
 
 
 
 
 
 ### Перейдите в папку и активируйте виртуальное окружение:
-''''
+
  cd Project_Test/
-'''
-''''
+
  python -m pip install --upgrade pip
-'''
-''''
+
  python -m venv venv
- '''
- ''''
+
  venv\Scripts\activate.bat - для Windows
- '''
- ''''
+ 
+ 
  source venv/Scripts/activate - для MacOS и Linux
- '''
+ 
 
 
 ### Установите необходимые зависимости проекта:
