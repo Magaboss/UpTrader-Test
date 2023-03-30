@@ -13,11 +13,6 @@ git clone https://github.com/Magaboss/UpTrader-Test.git
  python -m venv venv
  venv\Scripts\activate.bat - для Windows
  source venv/Scripts/activate - для MacOS и Linux
- 
-````
-### Установите необходимые зависимости проекта:
-```
-pip install -r requirements.txt
 
 ````
 ### Выполните миграции:
